@@ -40,3 +40,19 @@ You can modify the algorithm parameters and experiment with different settings t
 
 For detailed implementation and usage examples, refer to the code comments.
 
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/n-step-SARSA_and_lambda-SARSA/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
